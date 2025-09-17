@@ -3,4 +3,4 @@
 
 # Name: Maham Zaidi
 
-# Comments: There is probably a better way to get the footer to stay at the bottom
+# Comments: There is probably a better way to space everything evenly
