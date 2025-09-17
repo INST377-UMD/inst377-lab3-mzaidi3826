@@ -1,0 +1,60 @@
+body {
+    background-color: plum;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav {
+    display: flex;
+    background-color: darkseagreen;
+    margin: 10px;
+}
+
+.nav a {
+    color: black;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: plum;
+}
+
+.header-footer {
+    color: white;
+    background-color: rgb(6, 164, 164);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.main {
+    background-color: palevioletred;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 70%;
+    float: left;
+}
+
+input[id="Name"] {
+    width: 150px;
+}
+
+input[id="Name"]:focus {
+    width: 250px;
+}
+
+.aside {
+    background-color: rgb(33, 33, 101);
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    width: 20%;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.aside:hover {
+    background-color: darkseagreen;
+}
